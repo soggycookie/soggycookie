@@ -1,7 +1,7 @@
 👋 Hi, I’m @soggycookie
 
 I love to learn cool things :D
-Btw fuck web development
+is web dev a thing
 
 <!---
 soggycookie/soggycookie is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
