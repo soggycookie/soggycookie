@@ -1,6 +1,8 @@
 👋 Hi, I’m @soggycookie
 
-I love to learn cool things :D
+I'm a programming newbie and I love to learn cool things :D
+
+The more I dive deep into learning, the more _stupid_ I feel. 
 
 
 <!---
