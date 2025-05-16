@@ -2,7 +2,7 @@
 
 I love to learn cool things :D
 
-The more I dive deep into learning, the more _stupid_ I feel. 
+
 
 
 <!---
